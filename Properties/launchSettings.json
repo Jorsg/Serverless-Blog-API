@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Project_1_Serverless_Blog_API": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7265",
+      "launchBrowser": false
+    }
+  }
+}
